@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parkee Test</string>
+    <string name="_5">5</string>
+    <string name="title_template">Title</string>
+    <string name="popular_title">Popular</string>
+    <string name="top_rated_title">Top Rated</string>
+    <string name="now_playing_title">Now Playing</string>
+    <string name="reviews_title">Reviews</string>
+    <string name="description_title">Description</string>
+    <string name="favorite_title">Favorite</string>
+</resources>
